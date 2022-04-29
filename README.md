@@ -6,7 +6,7 @@ Primeiro repositório criado no Desafio de projeto sobre Git/GitHub da DIO
 - [x] Mentoria #1
 - [x] Lógica de programação essencial
 - [x] Introdução ao Git/GitHub
-- [ ] Criação do primeiro repositório
+- [x] Criação do primeiro repositório
 
 ### Links úteis
 * [Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
